@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Hello CloudEdge GitOps Demo
+      value: Hello CloudEdge Reactor GitOps Demo
