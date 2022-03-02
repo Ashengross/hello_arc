@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Hello Azure Arc GitOps Demo
+      value: Hello CloudEdge GitOps Demo
